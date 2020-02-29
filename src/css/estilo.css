@@ -1,0 +1,26 @@
+.cor1 {
+    height: 25px;
+    width: 80px;
+    border: nome;
+    padding: 0;
+    background-color: #98FB98;
+    cursor: pointer;
+}
+
+.cor2 {
+    height: 35px;
+    width: 80px;
+    border: none;
+    padding: 0;
+    background-color: #ADFF2F;
+    cursor: pointer;
+}
+
+.cor3 {
+    height: 35px;
+    width: 80px;
+    border: none;
+    padding: 0;
+    background-color: #FF6347;
+    cursor: pointer;
+}
